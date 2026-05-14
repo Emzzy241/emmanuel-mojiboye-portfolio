@@ -6,6 +6,11 @@ export const metadata: Metadata = {
   title: "Emmanuel Mojiboye — Full-Stack Developer | Back-end Developer",
   description:
     "Full-stack software developer crafting reliable backend systems and modern frontend interfaces.",
+  icons: {
+    icon: "/favicon.ico",
+    apple: "/apple-touch-icon.png",  // for iOS home screen
+    shortcut: "/favicon-16x16.png",
+  },
   openGraph: {
     title: "Emmanuel Mojiboye — Full-Stack Developer | Back-end Developer",
     description:

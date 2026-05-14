@@ -41,7 +41,7 @@ const projects = [
       "Explore global destinations and share travel reviews through this REST API built with .NET 6.0. Offers clean endpoints for getting, posting, and updating travel reviews.",
     tags: [".NET 6.0", "REST API", "C#"],
     link: "https://github.com/Emzzy241/Travela-Api",
-    category: "Backend",
+    category: "Back-end",
     highlight: false,
   },
   // {
@@ -66,12 +66,12 @@ const projects = [
   // },
   {
     number: "05",
-    title: "Pet Management System",
+    title: "Aittorney",
     description:
-      "A TypeScript-based virtual pet system inspired by Tamagotchi. Users create, track, and interact with pets by feeding, playing, and monitoring well-being attributes.",
-    tags: ["TypeScript", "OOP"],
-    link: "https://github.com/Emzzy241/Pet-Management-System",
-    category: "TypeScript",
+      "Aittorney is an intelligent legal automation platform designed specifically for startups, founders, and SMEs. We eliminate the friction, high costs, and slow turnaround times of traditional law firms by enabling users to generate, customize, and finalize legal documents in minutes—not weeks—using advanced, secure generative AI, backed by expert human review.",
+    tags: ["TypeScript", "Next.js"],
+    link: "https://aittorney-2nk5.vercel.app/",
+    category: "Front-end",
     highlight: false,
   },
 ];
