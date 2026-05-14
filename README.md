@@ -46,10 +46,18 @@ Or connect your GitHub repo directly at [vercel.com](https://vercel.com).
 
 ## Customization
 
-Update your info in:
+My Portfolio Website is Open Source and you can update your info in:
 - `components/Hero.tsx` — headline, bio
 - `components/About.tsx` — about text, stats
 - `components/TechStack.tsx` — skills & categories
 - `components/Projects.tsx` — project list
 - `components/Contact.tsx` — social links, email
 - `app/layout.tsx` — metadata (title, description)
+
+## Buy me a Coffee :)
+buymeacoffee.com/Emzzy241
+
+## Contact
+* Email - emzzyoluwole@gmail.com
+* Instagram - @Emmanuel.9944
+* Twitter - @EmmanuelMojiboy
