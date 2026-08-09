@@ -78,8 +78,8 @@ export default function Hero() {
         {/* Description */}
         <p className="font-body text-paper/60 max-w-md leading-relaxed text-base md:text-lg">
           I&apos;m{" "}
-          <span className="text-paper font-500">Emmanuel Mojiboye</span> —
-          crafting scalable backend systems, clean APIs, and modern interfaces
+          <span className="text-paper font-500">Emmanuel Mojiboye,</span> I
+          craft scalable backend systems, build clean APIs, and develop  modern interfaces
           that just work.
         </p>
 
@@ -105,7 +105,7 @@ export default function Hero() {
               <Linkedin size={18} />
             </a>
             <a
-              href="https://twitter.com/home"
+              href="https://x.com/EmmanuelMojiboy"
               target="_blank"
               rel="noreferrer"
               className="text-paper/40 hover:text-accent transition-colors"

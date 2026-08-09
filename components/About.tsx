@@ -74,7 +74,7 @@ api.listen(3000, () => {
 
 // Clean. Scalable. Yours.`} */}
               <Image
-                src="/Images/Dynasty-Portfolio.png"
+                src="/Images/Dynasty-Portfolio-new.png"
                 alt="Emmanuel Mojiboye"
                 fill
                 className="object-cover object-top"
