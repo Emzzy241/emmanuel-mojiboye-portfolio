@@ -127,6 +127,21 @@ export default function Contact() {
             </a>
           );
         })}
+
+        {/* <iframe className="mt-8"
+          src="https://dynasty241.substack.com/embed"
+          width="480"
+          height="320"
+          style={{ border: '1px solid #EEE', background: 'white' }}
+        ></iframe> */}
+
+        <iframe className="display-flex mt-12"
+          src="https://dynasty241.substack.com/embed?transparent=1&light=1"
+          width="480"
+          height="150"
+          style={{ border: 0, background: 'transparent' }}
+        ></iframe>
+
       </div>
     </section>
   );
